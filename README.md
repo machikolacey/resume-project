@@ -1,6 +1,6 @@
 
 <h1>User Centric Web Design Project</h1>
-<a href="https://machikolacey.github.io/resume-project/" target="_blank"></a>
+<a href="https://machikolacey.github.io/resume-project/" target="_blank">https://machikolacey.github.io/resume-project/</a>
 
 <h2>Teach Stack</h2>
 
